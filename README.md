@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fyrthuz
 - 👀 I’m interested in learning as much as possible about Computer Science
-- 🌱 I’m currently learning Computer Science on University Santigo de Compostela
+- 🌱 I graduated on Computer Science degree on University Santigo de Compostela and currently I'm studying a Master Degree of Artificial Intelligence
 - 💞️ I’m looking to collaborate on projects in C/C++,Java,Python,SQL,etc
 - 📫 How to reach me: fernando.gonzalez.salass@gmail.com
 <!---
