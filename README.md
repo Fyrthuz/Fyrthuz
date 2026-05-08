@@ -1,32 +1,30 @@
 # 👋 Hi, I’m Fernando Gonzalez Salas (@Fyrthuz)
 
-### 🚀 Machine Learning Engineer | Building Scalable, High-Impact AI
-[cite_start]I am a Machine Learning Engineer driven by the challenge of bridging the gap between experimental AI and production-ready systems[cite: 3, 25]. [cite_start]My focus is on creating reliable, scalable architectures that solve complex real-world problems, particularly in safety-critical and industrial environments[cite: 5, 23].
+### 🚀 Machine Learning Engineer | MLOps & AI Architect
+I am a Machine Learning Engineer driven by the challenge of bridging the gap between experimental AI research and production-ready systems. My focus is on creating reliable, scalable architectures that solve complex real-world problems, particularly in safety-critical and industrial environments.
 
 ---
 
 ### 🌱 My Journey & Motivations
-* [cite_start]**Academic Foundation**: I hold a Master’s in AI and a Bachelor's in Computer Science from **Santiago de Compostela University**[cite: 9, 14]. [cite_start]My academic research focused on advancing biomedical imaging and computer vision through foundational models and uncertainty estimation[cite: 12, 17].
-* [cite_start]**Industrial Impact**: My career has been defined by moving AI out of the lab and into the factory[cite: 30]. [cite_start]From architecting predictive maintenance for global manufacturing to developing critical incident classifiers for aviation and nuclear energy, I am motivated by the "real-world" reliability of code[cite: 23, 30].
-* [cite_start]**Philosophy**: I believe in the end-to-end lifecycle of intelligent systems[cite: 4]. [cite_start]For me, ML isn't just about the model; it’s about the data engineering, the MLOps pipelines, and the LLMOps practices that ensure a system stays robust once deployed[cite: 4, 5].
+* **From Research to Production**: My background in Computer Science and my Master’s in AI provided a foundation in deep learning and computer vision. Today, I am motivated by the "real-world" reliability of code—moving AI out of the lab and into the factory or the control room.
+* **Specialized Impact**: I have a dedicated focus on the end-to-end lifecycle of intelligent systems. For me, ML isn't just about the model; it’s about the data engineering, the MLOps pipelines, and the LLMOps practices that ensure a system stays robust and scalable.
+* **Industrial Reliability**: Having worked on safety-critical incident classification and predictive maintenance for global factories, I am passionate about building AI that is not only "smart" but also highly precise and production-ready.
 
 ---
 
 ### 🛠️ Technical Expertise
-* [cite_start]**Core Tech**: Expert in **Python**, with a strong background in Java and C[cite: 84].
-* [cite_start]**AI/ML**: Specialized in **PyTorch**, **Transformers (Hugging Face)**, and **Computer Vision (OpenCV)**[cite: 85].
-* [cite_start]**Infrastructure**: Skilled in **Databricks**, **Azure**, **GCP**, and **MLOps** tools like **MLFlow** and **Docker**[cite: 5, 86, 89].
+* **Core Tech**: Expert in **Python**, with a solid background in Java, C, and JavaScript.
+* **AI/ML & Generative AI**: Specialized in **PyTorch**, **Transformers**, **LangChain**, and **Computer Vision (OpenCV)**.
+* **Cloud & MLOps**: Skilled in **Azure**, **GCP**, **Databricks**, and lifecycle tools like **MLFlow** and **Docker**.
+* **Big Data**: Experienced with **Snowflake**, **PySpark**, and **SQL**-based data pipelines.
 
 ---
 
 ### 🤝 Let's Collaborate
-[cite_start]I am passionate about discussing MLOps standardization, Generative AI integration, and Scalable Data Science[cite: 25, 31, 32]. I am always open to collaborating on projects that push the boundaries of what AI can achieve in professional settings.
+I am passionate about discussing MLOps standardization, Generative AI integration, and Scalable Data Science. I am always open to collaborating on projects that push the boundaries of what AI can achieve in professional and industrial settings.
 
-* 📫 **How to reach me**: [fernando.gonzalez.salass@gmail.com](mailto:fernando.gonzalez.salass@gmail.com)
+* 📫 **Reach me at**: [fernando.gonzalez.salass@gmail.com](mailto:fernando.gonzalez.salass@gmail.com)
 * 🔗 **Professional Profile**: [linkedin.com/in/fernando-gonzalez-salas-317378254](https://www.linkedin.com/in/fernando-gonzalez-salas-317378254)
-* [cite_start]🌍 **Languages**: Spanish (Native), Galician (Native), English (C1)[cite: 92, 93, 94].
+* 🌍 **Languages**: Spanish & Galician (Native), English (C1), Portuguese (Basic).
 
----<!---
-Fyrthuz/Fyrthuz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
